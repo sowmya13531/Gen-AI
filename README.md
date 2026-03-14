@@ -17,12 +17,12 @@ The generated image is then displayed on the webpage and can be downloaded.
 This project demonstrates a **full-stack AI application** combining a web frontend, an API backend, and a deep learning model.
 
 # Demo-Project
-![Demo](demo/Screenshot(250).png)
-![Demo](demo/Screenshot(247).png)
-![Demo](demo/Screenshot(248).png)
-![Demo](demo/Screenshot(245).png)
-![Demo](demo/Screenshot(246).png)
-![Demo](demo/Screenshot(249).png)
+![Demo](demo/Screenshot%20(250).png)
+![Demo](demo/Screenshot%20(247).png)
+![Demo](demo/Screenshot%20(248).png)
+![Demo](demo/Screenshot%20(245).png)
+![Demo](demo/Screenshot%20(246).png)
+![Demo](demo/Screenshot%20(249).png)
 # Technologies Used
 
 ## Frontend
